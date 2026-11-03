@@ -1,0 +1,2 @@
+5e03820c3b67c3beacdee982f7cead8c273be2fdc8b040a636e84afc17a43d45  Chroni-1.0.0-debug.apk
+f60048c7519f7b66c9190ed34634c07826bac3da2fa7a599465f1e72a4076340  Chroni-1.0.0-release-unsigned.apk

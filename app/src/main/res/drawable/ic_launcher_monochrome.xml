@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icône monochrome (icônes à thème Android 13+). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FFFFFF" android:pathData="M49,18.5 h10 v6 h-10 Z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M73.5,26.5 l4.5,-4.5 l3.5,3.5 l-4.5,4.5 Z"/>
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="4" android:pathData="M54,27 A27,27 0 1,1 53.99,27 Z"/>
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="1.8" android:strokeLineCap="round" android:strokeAlpha="0.9" android:pathData="M39.5,36 V68"/>
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="1.8" android:strokeLineCap="round" android:strokeAlpha="0.9" android:pathData="M61,36 V68"/>
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="2.6" android:strokeLineJoin="round" android:strokeLineCap="round"
+        android:pathData="M31,54 H38 L39.5,43 L41,64 L42.5,40 L44,67 L45.5,46 L47,59 L48.5,51 L50,54 H59.5 L61,48 L62.3,60 L63.6,51 L64.8,56.5 L66,54 H77"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M39.5,69 l-3.5,5 h7 Z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M61,69 l-3.5,5 h7 Z"/>
+</vector>
